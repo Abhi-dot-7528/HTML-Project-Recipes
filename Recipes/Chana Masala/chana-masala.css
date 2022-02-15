@@ -1,0 +1,15 @@
+*{
+    background-color: #FFE6AB;
+}
+
+h2{
+    text-align: center;
+}
+.bg-img{
+    width: 100%;
+    background-color: black;
+}
+.bg-img img{
+    display: block;
+    margin: auto;
+}
